@@ -51,6 +51,9 @@ export default {
             .nav .list li{
                 padding: 20px;
                 list-style-type: none;
+                &:hover{
+                    color: rgba(249,99,107,1);
+                }
 
             }
             button{
@@ -62,6 +65,8 @@ export default {
                 background: linear-gradient(153deg, rgba(3,167,211,1) 0%, rgba(82,124,235,1) 60%);
                 span{
                     padding: 10px;
+                    color: white;
+                    font-size: 0.9rem;
                 }
             }
         }
