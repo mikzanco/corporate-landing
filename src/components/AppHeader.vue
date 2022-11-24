@@ -46,6 +46,7 @@ export default {
         height: 700px;
         max-width: 100vw;
         background: linear-gradient(185deg, rgba(82,124,235,1) 0%, rgba(0,0,0,1) 81%);
+        // background: $primary-backgroun;
         .container-hea{ 
             justify-content: space-between;
             .nav .list li{

@@ -13,10 +13,10 @@ export default {
         </div>
         <div class="social d-flex">
             <ul class="d-flex">
-                <li><font-awesome-icon icon="fa-brands fa-instagram" />no</li>
-                <li><font-awesome-icon icon="fa-solid fa-user-secret" />no</li>
-                <li><font-awesome-icon icon="fa-solid fa-user-secret" />no</li>
-                <li><font-awesome-icon icon="fa-solid fa-user-secret" />no</li>
+                <li><i class="fa-brands fa-instagram"></i></li>
+                <li><i class="fa-brands fa-linkedin-in"></i></li>
+                <li><i class="fa-brands fa-facebook-f"></i></li>
+                <li><i class="fa-brands fa-twitter"></i></li>
             </ul>
         </div>
     </div>
@@ -38,6 +38,7 @@ export default {
             .social ul li{
                 list-style-type: none;
                 padding: 20px;
+                color: white;
             }
         }
     }
