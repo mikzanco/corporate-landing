@@ -12,7 +12,14 @@ export default {
             <img class="back" src="../../assets/img/nemoodar.png" alt="">
         </div>
         <div class="text">
-
+            <p>Start Your project</p>
+            <h2><strong>Grow Your Business</strong></h2>
+            <h2>With Our Strategy</h2>
+            <p class="blue">When, while the lovely valley teems with vapour around meand the meridian sun strikes the upper surface.of the impenetrambe follage of my trees, and but a few stray gleams steal into the inner sanctuary</p>
+            <div class="button d-flex">
+            <button class="red"><span>Try It Now</span> </button>
+            <button ><span>Explore More</span></button>
+        </div>
         </div>
     </div>
   
@@ -42,6 +49,36 @@ export default {
                 right: 150px;
                 top: 50px;
                 z-index: 1;
+            }
+        }
+        .text{
+            
+            width: 40%;
+            
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 50px;
+            h2{
+                font-size: 3.2rem;
+                
+            }
+            .blue{
+                padding-top: 20px;
+                color: $primary-color;
+            }
+            button{
+                height: 40px;
+                margin-top: 10px;
+                padding: 5px;
+                border-radius: 20px;
+                border: none;
+                margin: 20px;
+
+                span{
+                    padding: 30px;
+                }
             }
         }
     }
