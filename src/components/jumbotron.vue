@@ -19,7 +19,7 @@ export default {
         </div>
     </div>
     <div class="img-header d-flex">
-        <img src="../assets/img/header.png" alt="">
+        <img src="../assets/img/header.png" alt="img jumbotron man and desktop">
     </div>
   </div>
 </template>

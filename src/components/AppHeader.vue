@@ -15,7 +15,7 @@ export default {
     <div class="container">
         <div class="container-hea d-flex">
             <div class="logo p-2">
-                <img src="/white-logo-2.png" alt="">
+                <img src="/white-logo-2.png" alt="Phlox Corporated">
             </div>
             <div class="nav ">
                 <ul class="list d-flex">
