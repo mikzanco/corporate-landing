@@ -14,8 +14,8 @@ export default {
   <header>
     <div class="container">
         <div class="container-hea d-flex">
-            <div class="logo">
-                Logo
+            <div class="logo p-2">
+                <img src="/white-logo-2.png" alt="">
             </div>
             <div class="nav ">
                 <ul class="list d-flex">
