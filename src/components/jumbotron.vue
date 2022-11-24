@@ -55,10 +55,10 @@ export default {
                 border-radius: 20px;
                 border: none;
                 margin: 20px;
-                .blue{
+                button.blue{
                     background: linear-gradient(153deg, rgba(3,167,211,1) 0%, rgba(82,124,235,1) 60%);
                 }
-                .red{
+                button.red{
                     background: linear-gradient(267deg, rgba(249,99,107,1) 0%, rgba(182,36,110,1) 60%);
                 }
                 span{
