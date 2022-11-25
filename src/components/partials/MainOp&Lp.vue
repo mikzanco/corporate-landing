@@ -30,8 +30,8 @@ export default {
     .main4{
         position: relative;
         min-width: 100vw;
-        height: 1300px;
-        background-color: red;
+        height: 1500px;
+        
     }
 
 </style>
